@@ -1,0 +1,25 @@
+body {					/*To remove unncecessary sapces on side and up*/
+	margin: 0px;
+	padding: 1px;		/*margin bahira ko part, padding content ko part*/
+	font-size: 50px		/*can change body bhitra ko sab font size*/
+}
+
+.header {				 /*this is header class*/
+	background-color : #780080; 
+	text-align: center;
+	/*font-size: 50px;*/
+
+}
+
+.cointainer {			 /*this is cointainer class*/
+	background-color: red;
+	text-align: center;
+	padding: 50px;
+	
+}
+
+.last {					/*this is footer/last class*/
+	background-color: green;
+	text-align: center;
+	padding: 1px;
+}
