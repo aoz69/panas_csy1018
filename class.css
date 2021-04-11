@@ -1,4 +1,4 @@
-.up_left {
+.panas {
 	background-color : blue;
     width: 50%;
     font-size: 25px;
@@ -37,7 +37,7 @@ margin-top: -100px;
 	height: 40px;
 	
 }
-
+ 
 #sm{
 	background-color: #ded70b;
 	width: 100px;
@@ -89,3 +89,4 @@ margin-top: -100px;
 	background-color: yellow;
 	font-size: 50px;
 }
+
