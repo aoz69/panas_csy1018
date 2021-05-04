@@ -1,0 +1,25 @@
+body{
+	background-color: orange;
+}
+#place{
+	text-align: left;
+	margin-top: 20px;
+
+}
+/*
+.flex{
+	display: inline-flex;
+}
+*/
+.size{
+	width: 215px;
+	height: 250px;
+	margin-top: 26px;
+	margin-left: 8px; 
+	display: inline;
+}
+
+
+#para{
+	background-color: white;
+}
