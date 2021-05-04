@@ -1,0 +1,31 @@
+body{
+
+	background-color: purple;
+}
+#header{
+	background-color:#8877e6;
+	height: 49px;
+	font: bold;
+}
+
+.down{
+	margin-top: 10px;
+	background-color: blue;
+	height: 516px;
+	width: 50%;
+}
+.down1{
+	margin-top: 10px;
+	background-color: red;
+	height: 516px;
+	width: 50%;
+
+}
+
+.ola{
+	display: flex;
+}
+footer{
+	background-color: yellow;
+	height: 49px;
+}

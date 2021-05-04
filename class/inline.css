@@ -1,0 +1,22 @@
+body {
+	background-color:blue;
+}
+
+#ola{
+	background-color: white;
+	height: 69px;
+	padding: 10px;
+}
+
+.op{
+	background-color: red;
+	display: inline; /*if used inline-block we didnt have to use margin*/
+	height : 30px;
+	margin: 10px;
+}
+
+.down{
+	background-color: red;
+	display: block;
+}
+
