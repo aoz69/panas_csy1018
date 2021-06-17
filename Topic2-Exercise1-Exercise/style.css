@@ -1,9 +1,33 @@
 body {margin: 0; padding: 0; background-image: url(background.jpg); font-family: calibri, helvetica, sans-serif;}
 
-#circle {border-radius: 100%; width: 200px; height: 200px; background-color: red;  position: absolute; top: 50%; left: 50%; font-size: 2em; cursor: pointer; text-align: center; line-height: 200px; box-shadow: 5px 5px 5px #333; text-shadow: 2px 2px 0px #000; color: #fff;}
+#circle {border-radius: 100%; 
+	width: 200px; height: 200px; 
+	background-color: red;
+	 position: absolute; top:
+	50%; left: 50%; font-size:
+	2em; cursor: pointer;
+	text-align: center;
+	line-height: 200px; 
+	box-shadow: 5px 5px 5px #333;
+	text-shadow: 2px 2px 0px #000; 
+	color: #fff;
+	}
 
 
 .transparent {opacity: 0.5;}
+
+.todo {
+	border-radius: 100%; 
+	width: 100px; 
+	height: 100px; 
+	background-color: rgb(238, 238, 238); 
+	position: absolute; 
+	top: 40%; left: 30%;
+	font-size: 2em; cursor: pointer;
+	text-align: center; line-height: 200px;
+	box-shadow: 5px 5px 5px #333; 
+	text-shadow: 2px 2px 0px #000; color: #fff;
+}
 
 #paragraph {
 	background-color: green;
