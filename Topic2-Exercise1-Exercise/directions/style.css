@@ -1,0 +1,18 @@
+body {
+    background-color: grey;
+}
+.one{
+    background-image: url(pics/1.png);
+    background-repeat: no-repeat;
+    height: 789px;
+    width: 100%;
+}
+/* #back{
+    background-image: url(pics/2.png);
+}
+#right{
+    background-image: url(pics/3.png);
+}
+#left{
+    background-image: url(pics/4.png);
+} */
