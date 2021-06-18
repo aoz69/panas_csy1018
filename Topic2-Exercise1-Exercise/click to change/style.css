@@ -1,0 +1,22 @@
+#right{
+    background-color: blueviolet;
+    float: right;
+    width: 36%;
+    height: 716px;
+}
+
+.me{
+    height: 100px;
+    width: 100px;
+    margin-left: 37px;
+    margin-top: 20px;
+    display: inline-flex;
+    background-image: url("pics/1.png");
+}
+
+#left{
+    float: left;
+    background-image: url("pics/1.png");
+    height: 502px;
+    width: 762px;
+}
